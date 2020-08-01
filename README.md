@@ -1,12 +1,10 @@
-package com.Allen;
-
 public class Main {
 
     public static void main(String[] args) {
 
         // find the index of 7
 
-
+        
                 int[] intArray = new int[7];
 
                 intArray[0] = 22;
